@@ -1,0 +1,65 @@
+body {
+	padding-top: 20px;
+	background: #fff;
+	color: #000;
+}
+label, .radio label, .checkbox label, .help-block, table, .table {
+	font-size: 16px;
+}
+.banner {
+	background: url('../images/banner.jpg') center top no-repeat;
+	height: 517px
+}
+.testimonial {
+	background: #f3f5f4;
+	padding-top: 20px;
+	margin-bottom: 50px;
+}
+.testimonial b {
+	color: #2ecc71
+}
+blockquote footer, blockquote small, blockquote .small {
+	color: #000;
+}
+.lead span {
+	color: #2ecc71
+}
+.worldClass {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;  
+}
+.worldClass li {
+	width: 20%;
+	float: left;
+	text-align: center;
+	font-size: 24px;
+}
+.img {
+	height: 100px
+}
+.expertise {
+	background: #2ecc71;
+	margin-top: 50px;
+	padding: 40px;
+	text-align: center;
+	color: #fff;
+	font-size: 18px;
+}
+
+
+/* Dashboard Page */
+.accosec {
+	margin-top: 50px;
+}
+
+.data h2 {
+	font-size: 24px;
+	color: #666666;
+	margin-top: 0;
+}
+
+.right-cont .uploader {
+	color: #2ECC71;
+	font-weight: 400;
+}
